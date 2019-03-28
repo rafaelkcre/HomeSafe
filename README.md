@@ -1,7 +1,12 @@
 # HomeSafe
-Biometria Digital para Condomínios
+Biometria Digital para Condominios
 
-Primeira Alteração
+Primeira Alteracao
 
 .
 
+Secunda Alteracao
+
+<?php
+	echo "Hello World";
+?>
